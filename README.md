@@ -6,7 +6,7 @@ This project aims to analyze and visualize house price data in London. The goal 
 ## Table of Contents
 - [Introduction](#introduction)
 - [Data Source](#data-source)
-- [Notes] (#notes)
+- [Notes](#notes)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
